@@ -204,6 +204,10 @@ img {
   text-align: center;
 }
 
+.hero .container {
+  text-align: center;
+}
+
 .hero-title {
   color: var(--secondary-text-color);
   font-weight: 900;
@@ -213,8 +217,8 @@ img {
   text-transform: uppercase;
   margin-bottom: 17px;
   min-width: 696px;
-  margin-left: 237px;
-  margin-right: 242px;
+  padding-left: 252px;
+  padding-right: 252px;
 }
 /* ============= END HERO ============= */
 
