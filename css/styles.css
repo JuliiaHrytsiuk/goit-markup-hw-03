@@ -199,12 +199,7 @@ img {
 /* ============= HERO ============= */
 .hero {
   background: #2f303a;
-  padding: 200px;
-  padding-bottom: 200px;
-  text-align: center;
-}
-
-.hero .container {
+  padding: 200px 0;
   text-align: center;
 }
 
@@ -212,13 +207,12 @@ img {
   color: var(--secondary-text-color);
   font-weight: 900;
   font-size: 44px;
-  line-height: 1, 36;
+  line-height: 1.36;
   letter-spacing: 0.06em;
   text-transform: uppercase;
   margin-bottom: 17px;
-  min-width: 696px;
-  padding-left: 252px;
-  padding-right: 252px;
+  max-width: 696px;
+  margin: 0 auto;
 }
 /* ============= END HERO ============= */
 
