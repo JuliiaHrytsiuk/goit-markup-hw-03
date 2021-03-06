@@ -75,6 +75,7 @@ img {
   padding: 10px 32px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   cursor: pointer;
+  margin-top: 17px;
 }
 
 .modal-btn:hover,
@@ -210,7 +211,6 @@ img {
   line-height: 1.36;
   letter-spacing: 0.06em;
   text-transform: uppercase;
-  margin-bottom: 17px;
   max-width: 696px;
   margin: 0 auto;
 }
